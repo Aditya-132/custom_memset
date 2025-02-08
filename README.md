@@ -88,13 +88,7 @@ make clean
 - If QEMU fails to execute the binary, ensure that `qemu-riscv64` is installed and correctly configured.
 - For permission issues, try running `export PATH=/opt/riscv64-gnu/bin:$PATH` again.
 
-## Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests.
 
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes.
-4. Submit a pull request.
 
 ## License
 This project is licensed under the MIT License.
